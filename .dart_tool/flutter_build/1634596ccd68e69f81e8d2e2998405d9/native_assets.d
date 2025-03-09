@@ -1,0 +1,1 @@
+ E:\\FLUTTER\\flutter_project\\onther\\throat\ sami\\traveling_app_final\\.dart_tool\\flutter_build\\1634596ccd68e69f81e8d2e2998405d9\\native_assets.yaml: 
